@@ -1,3 +1,5 @@
+# Script：COSME
+# GUI：COSMEX
 ## 运行依赖安装
 
 ### npm相关
